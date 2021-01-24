@@ -18,10 +18,10 @@ Easy to collaboration. Give speed and efficiency.
 ![logobranch](https://screener.io/img/v2/docs/branching-merging.png)
 1. **Repository/Repo** : Folder to save the project files.
 2. **Commit** : The track of every changes in the project. Every commit must have :
- 1. Hash/string random, a long code use alfabet and numbers for GIT to track the commit. 
- 2. Author who did the changes.
- 3. Date and time, when the changes done.
- 4. Commit message, what the changes about.
+ - Hash/string random, a long code use alfabet and numbers for GIT to track the commit. 
+ - Author who did the changes.
+ - Date and time, when the changes done.
+ - Commit message, what the changes about.
 3. **Checkout** : Move to another commit. 
 4. **Branch** : Every changes from one source.
 5. **Merge** : Combine branch.
